@@ -73,6 +73,9 @@ $twoDArray = array(
 );
 
 
+
+
+
 echo "<table border='1'>";
 foreach ($twoDArray as $row) {
     echo "<tr>";
